@@ -6,7 +6,8 @@ Please follow the below folder structure:
 root
 +-----(Folder for that language) / (Filename describing the program).(extension)
 
-# example:
+##### example:
 javascript/addingTwoNumbers.js
+
 ruby/reading_input.rb
 
