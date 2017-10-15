@@ -7,9 +7,9 @@ basic-programs/
 ├──<Language Name>/
 │  ├──<Descriptive name>.example
 ```
-If there is not a folder for the language in the repository, you are more than welcome to add another.
+If there is no folder for the language in the repository, you are more than welcome to add another.
 
-If you are adding a program with that utilises a specific concept and/or theory, please add it to its own sub-folder
+If you are adding a program that utilises a specific concept and/or theory, please add it to its own sub-folder
 
 ##### example:
 For a concept:
