@@ -1,14 +1,17 @@
 <?php
 
-function factorial($n)
-{ 
-    if ($n < 2) { 
+/**
+* Calculate a factorial given a number.
+* For different results, change the function call.
+*/
+function factorial($number) { 
+
+    if ($number < 2) { 
         return 1; 
     } else { 
-        return ($n * factorial($n-1)); 
+        return ($number * factorial($number-1)); 
     } 
 }
 
-echo factorial(6);
-
-?>
+$res = factorial(4);
+echo $res;
