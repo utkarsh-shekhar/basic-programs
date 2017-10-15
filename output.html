@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Click the button and write.</p>
+
+<button onclick="myFunction()">Click</button>
+
+<p id="show"></p>
+
+<script>
+function myFunction() {
+    var text = prompt("Please enter your taxt", "here...");
+    if (text != null) {
+        document.getElementById("show").innerHTML =text;
+    }
+}
+</script>
+
+</body>
+</html>
