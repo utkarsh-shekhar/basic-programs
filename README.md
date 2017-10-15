@@ -26,3 +26,5 @@ basic-programs/
 ├──ruby/
 │  ├──reading_input.rb
 ```
+### Important!
+When making a change, make sure to check open Pull Requests to make sure that what you're working on is not already done.
