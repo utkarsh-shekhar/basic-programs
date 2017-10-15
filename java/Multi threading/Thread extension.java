@@ -1,4 +1,5 @@
-//Previous program rewrritten to extend a thread
+//Previous program rewrritten to extend a thread\
+import java.util.*;
 
 class ThreadDemo extends Thread {
    private Thread t;
