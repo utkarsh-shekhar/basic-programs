@@ -1,0 +1,12 @@
+D:\xiaomi_usb_driver\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\xiaomi_usb_driver\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\xiaomi_usb_driver\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\xiaomi_usb_driver\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+D:\xiaomi_usb_driver\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\xiaomi_usb_driver\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+E:\Hacktober\basic-programs\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+E:\Hacktober\basic-programs\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+E:\Hacktober\basic-programs\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+E:\hacktober-code\basic-programs\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+E:\hacktober-code\basic-programs\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+E:\hacktober-code\basic-programs\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
