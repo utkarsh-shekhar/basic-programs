@@ -9,7 +9,13 @@ root
 If the specific folder does not exist, you can create the folder for the langugae that you want to use and then add files to that folder.
 Make sure the filename is descriptive.
 
-##### example:
-javascript/addingTwoNumbers.js
+If the program describes a specific pattern/concept. Please create a new folder with that concept name and then add the file to it.
 
+##### example:
+If it describes a concept:
+javascript/recursion/factorial.js
+java/multithreading/clock.java
+
+Very basic programs:
+javascript/addingTwoNumbers.js
 ruby/reading_input.rb
