@@ -31,8 +31,16 @@ public class Factorial {
 
         int num =sc.nextInt();
 
-        System.out.println(fac(num));
+        if(num<0){
+            Error a = new Error("factorial for negative numbers is undefined");
+            System.out.println(a.getMessage());
+            Factorial.main(new String[1]);
 
+
+        }else {
+
+            System.out.println(fac(num));
+        }
 
 
 
