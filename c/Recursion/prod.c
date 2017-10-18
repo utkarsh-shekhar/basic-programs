@@ -8,7 +8,7 @@ int prod (int n){
 	}else if (n==1){
 		return 1;
 	}else{
-		return n*sum(n-1);
+		return n*prod(n-1);
 	}
 }
 int main(){
