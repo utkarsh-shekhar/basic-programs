@@ -8,17 +8,18 @@ public class PalindromeCheck {
     public static void main(String[] args) {
         // Accept input from the console
         System.out.print("Please enter a string: ");
+        String input = null;
         String s = null;
         try {
             Scanner sc = new Scanner(System.in);
-            s = sc.next();
+            input = sc.next();
+            s = input.toLowerCase(); // convert all characters to lower case so that palindrome check is case insensitive.
             sc.close();
         } catch (Exception e) {
             outputAndEnd("Unexpected error, please try to re-run the program."); // Error message for any unknown issues while reading the input
         }
 
-        char[] chars = s.toCharArray();
-        int len = chars.length;
+        int len = s.length();
 
         /*
         Loop through all the characters and evaluate if given string is a palindrome
@@ -29,12 +30,12 @@ public class PalindromeCheck {
         m(f) and a(r) from beginning are compared against m(t) and a(i) from the end, the middle character d(u) is ignored
          */
         for (int i = 0; i < len / 2; i++) {
-            if (chars[i] != chars[len - 1 - i]) {
-                outputAndEnd(s + " is not a palindrome"); // Report failure when the first mismatch is found.
+            if (s.charAt(i) != s.charAt(len - 1 - i)) {
+                outputAndEnd(input + " is not a palindrome"); // Report failure when the first mismatch is found.
             }
         }
         // If no mismatch is found and the loop is successfully complete, report the success.
-        outputAndEnd(s + " is a palindrome");
+        outputAndEnd(input + " is a palindrome");
     }
 
     private static void outputAndEnd(String message) {
