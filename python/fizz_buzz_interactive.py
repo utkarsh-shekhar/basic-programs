@@ -19,10 +19,10 @@ def fizzbuzz(fizz, buzz, count):
         if i%fb == 0:
             print('FizzBuzz')
             continue
-        elif i%5 == 0:
+        elif i%buzz == 0:
             print('Buzz')
             continue
-        elif i%3 == 0:
+        elif i%fizz == 0:
             print('Fizz')
             continue
         else:
