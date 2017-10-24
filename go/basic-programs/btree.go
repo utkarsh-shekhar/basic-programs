@@ -33,9 +33,7 @@ func insert(t *tree, l *tree) *tree {
 		insert(t.right,l)
 	}
 	return t
-	
 }
-	
 
 
 func main() {
