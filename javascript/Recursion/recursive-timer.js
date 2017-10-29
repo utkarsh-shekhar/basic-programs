@@ -15,7 +15,7 @@ function startTimer (end) {
     if (new Date().getTime() >= endTime) {
       console.log('finished!');
     } else {
-      startTimer(end);
+      return startTimer(end);
     }
   }, 1000);
 }
