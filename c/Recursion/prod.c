@@ -18,6 +18,7 @@ int prod (int n){
 int main(){
 	int n;
 	scanf("%d", &n);
+	
 	if(n<0)
 		printf("The program only performs the output for positive numbers!\n");
 	else
