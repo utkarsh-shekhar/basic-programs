@@ -27,9 +27,9 @@ public class DivideString {
             }  
         }  
 }  
-Output:
+//Output:
 
-3 equal parts of given string are
-aaaa
-bbbb
-cccc
+//3 equal parts of given string are
+//aaaa
+//bbbb
+//cccc
