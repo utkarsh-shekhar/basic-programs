@@ -2,14 +2,16 @@ import java.util.Scanner;
 public class Palindrome {
     static boolean isPalindrome(String word) {
         char[] letterArray = word.toCharArray();
-        int startingIndex = 0;
-        int lastIndex = letterArray.length - 1;
-        while (lastIndex > startingIndex) {
-            if (letterArray[startingIndex] != letterArray[lastIndex]) {
+        int i = 0; //i is the starting index value which is initially 0 in all cases
+        int l,la; //la is for storing last index value 
+        l=letterArray.length; //for storing length of word
+        int la = l - 1;
+        while (la > i) {
+            if (letterArray[i] != letterArray[la]) {
                 return false;
             }
-            ++startingIndex;
-            --lastIndex;
+            ++i;
+            --la;
         }
         return true;
     }
