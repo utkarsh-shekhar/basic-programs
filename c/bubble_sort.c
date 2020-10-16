@@ -1,5 +1,5 @@
-/*
-BUBBLE SORT with Time Complexity : n
+
+//BUBBLE SORT with Time Complexity : n
 int main()
 {
    int i, j, r, temp, num[100000];
@@ -28,7 +28,3 @@ int main()
       printf("%d\t",num[i]);
     }
 }
-*/
-
-
-/*
