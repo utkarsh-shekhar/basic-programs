@@ -1,5 +1,5 @@
-/*
-INSERTION SORT with Time Complexity : n
+//INSERTION SORT with Time Complexity : n
+
 #include<stdio.h>
 int main()
 {
@@ -29,4 +29,4 @@ int main()
       printf("%d\t",num[i]);
     }
 }
-*/
+
