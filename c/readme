@@ -1,1 +1,13 @@
-Please add the files for C in this folder.
+## <center>**Index**</center>
+1. [Recursion](https://github.com/utkarsh-shekhar/basic-programs/tree/master/c/Recursion)
+   1. [Fibonacci series](https://github.com/utkarsh-shekhar/basic-programs/tree/master/c/Recursion/fibonacci.c)
+   2. [Power function](https://github.com/utkarsh-shekhar/basic-programs/tree/master/c/Recursion/power.c)
+   3. [Product of Number from 1-n](https://github.com/utkarsh-shekhar/basic-programs/tree/master/c/Recursion/prod.c)
+   4. [Sum of digit in a integer.](https://github.com/utkarsh-shekhar/basic-programs/tree/master/c/Recursion/sum_of_digits_with_recursion.c)
+2. [C implementation of Bubble Sort](https://github.com/utkarsh-shekhar/basic-programs/tree/master/c/bubble_sort.c)
+3. [Factorial of a number](https://github.com/utkarsh-shekhar/basic-programs/tree/master/c/Factorial.c)
+4. [Fizz-Buzz game example for conditional and loop statements](https://github.com/utkarsh-shekhar/basic-programs/tree/master/c/fizz-buzz.c)
+5. [Half pyramid patter using loops](https://github.com/utkarsh-shekhar/basic-programs/tree/master/c/halfPyramid.c)
+6. [C implementation of Insertion Sort](https://github.com/utkarsh-shekhar/basic-programs/tree/master/c/insertion_sort.c)
+7. [C implementation of Selection Sort](https://github.com/utkarsh-shekhar/basic-programs/tree/master/c/selection_sort.c)
+ 
